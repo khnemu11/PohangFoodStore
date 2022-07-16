@@ -46,7 +46,7 @@ townBb : 특정 거리
 ex)http://data.pohangfood.kr/openapi/service/getPHFoodList?pageNo=1&numOfRows=10&searchKey=&townGb=s3
 
 
-1. 특정 음식점 출력
+2. 특정 음식점 출력
 
 
 사용 파라미터)
