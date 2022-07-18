@@ -62,4 +62,7 @@ ex)http://data.pohangfood.kr/openapi/service/getPHFoodDetail?dataKey=2731
   3) 머티리얼 디자인 적용
   4) cors 문제로 인해 cors changer 플러그인을 크롬 브라우저에 다운(html,js만으로 해결 불가
 
-api 접속 불가로 인한 일시 중지
+07/18)
+   1) cors 문제 해결(jsp로 프록시 서버처럼 url을 통일)
+   2) heroku 배포
+    https://ksh-pohang-restaurant.herokuapp.com/
